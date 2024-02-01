@@ -25,7 +25,7 @@ Visit our live landing page: [Lumienux Solar Shop](https://github.com/zaladeokin
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/zaladeokin/lumienux-solar-landing-page.git
+git clone https://github.com/zaladeokin/3MTT.git
 ```
 
 ## Contact
