@@ -13,7 +13,7 @@ Welcome to the Lumienux Solar Landing Page repository! This repository contains 
 
 Lumienux Solar Shop is your go-to destination for sustainable and efficient solar solutions. This landing page showcases our top-quality solar products designed to illuminate your life while minimizing your carbon footprint.
 
-Visit our live landing page: [Lumienux Solar Shop](https://github.com/zaladeokin/3MTT)
+Visit our live landing page: [Lumienux Solar Shop](https://zaladeokin.github.io/3MTT/)
 
 ## Features
 
