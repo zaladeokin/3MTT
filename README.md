@@ -6,6 +6,7 @@ Welcome to the Lumienux Solar Landing Page repository! This repository contains 
 
 - [About](#about)
 - [Features](#features)
+- [Technologies](#technologies)
 - [Installation](#installation)
 - [Contact](#Contact)
 
@@ -20,9 +21,14 @@ Visit our live landing page: [Lumienux Solar Shop](https://zaladeokin.github.io/
 - Responsive design for various devices and screen sizes.
 - About sections.
 
+## Technologies
+
+- HTML5
+- CSS3
+
 ## Installation
 
-1. Clone the repository to your local machine:
+Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/zaladeokin/3MTT.git
